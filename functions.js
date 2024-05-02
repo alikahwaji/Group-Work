@@ -25,7 +25,7 @@ function kaydenSplitBunches(fruitArray){
 
 
 // declare function 
-let arrayNavigiation(arr, num)=>{
+function arrayNavigation(arr, num)=>{
     
 }
 // split numbers into n-sized groups
@@ -42,7 +42,7 @@ function sumIndexes(){
 }
 // return the array with the greatest sum
 function greatestSum(){
-
+    greatestSum()
 }
 // if they have the same sum, return the one with the smallest element
 function littleGuys(){
