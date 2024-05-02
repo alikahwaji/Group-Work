@@ -1,3 +1,3 @@
-console.log()
+console.log();
 
-for (let quantity: = i; i > 0; i--;)
+for (let quantit = i; i > 0; i--) {}
