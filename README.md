@@ -21,5 +21,12 @@ Given an array of numbers and a value for n, split the numbers into n-sized grou
 
 nums = [4, 14, 12, 7, 14, 16, 5, 13, 7, 16, 11, 19] n = 4
 
-nums = [ [4,14,12,7], [14,16,5,13], [7,16,11,19] ]
+nums = [ [4,14,12,7],
+         [14,16,5,13],
+         [7,16,11,19] ]
  
+// split numbers into n-sized groups
+// return a new array of all matching indexes eg// nums[0], nums[1], nums[2]
+// add the elements of this array
+// return the array with the greatest sum
+// if they have the same sum, return the one with the smallest element
