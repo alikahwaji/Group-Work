@@ -14,7 +14,6 @@ splitBunches([
   { name: "bananas", quantity: 1 },
   { name: "bananas", quantity: 1 }
 ]
-<<<<<<< HEAD
 
 groupName:festive-Three
 
@@ -22,5 +21,6 @@ group members:
 Jacob Barber 
 Erin Colane
  Kayden McManaway
-=======
->>>>>>> be50b37b1ce4604a62278d6f75eed164f63f8c68
+
+ Checked by : Ali Kahwaji
+ 
