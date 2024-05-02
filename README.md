@@ -22,3 +22,9 @@ Given an array of numbers and a value for n, split the numbers into n-sized grou
 
 nums = [4, 14, 12, 7, 14, 16, 5, 13, 7, 16, 11, 19]
 n = 4
+
+nums = [
+[4,14,12,7],
+[14,16,5,13],
+[7,16,11,19]
+]
