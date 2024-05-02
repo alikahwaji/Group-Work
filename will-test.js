@@ -1,3 +1,4 @@
+//NOTE - Task One
 // let fruit = [
 //     {
 //         name: "bananas",
