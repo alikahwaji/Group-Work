@@ -5,7 +5,7 @@ let bunches = ([
     { name: "bananas", quantity: 2 }
   ])
 
-function splitBunches(fruitArray){
+function kaydenSplitBunches(fruitArray){
     let result = []
     for(let i = 0; i<fruitArray.length; i++) {
         let amount = fruitArray[i].quantity
@@ -21,7 +21,7 @@ function splitBunches(fruitArray){
     return result
 }
 
-console.log(splitBunches(bunches))
+console.log(kaydenSplitBunches(bunches))
 function splitBunches(arr){
 
 }
